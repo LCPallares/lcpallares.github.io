@@ -3,7 +3,7 @@ async function renderCards(jsonFile, containerId) {
   try {
     // 1. Determinar la ruta correcta al archivo JSON
     // Usar ruta absoluta desde la raíz del sitio en GitHub Pages
-    const baseUrl = 'https://lcpallares.github.io/quarto-LCPallares/';
+    const baseUrl = 'https://lcpallares.github.io/';
     const filePath = `${baseUrl}${jsonFile}`;
 
     // 2. Cargar el archivo JSON

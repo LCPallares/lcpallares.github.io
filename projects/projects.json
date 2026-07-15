@@ -3,18 +3,18 @@
     "title": "University Dropout Analysis",
     "description": "Examined data trends to identify patterns and factors influencing student attrition in Business Administration.",
     "image": "https://blog.pearsonlatam.com/hs-fs/hubfs/causas-m%C3%A1s-comunes-de-deserci%C3%B3n-escolar-universitaria.jpeg?width=800&height=852&name=causas-m%C3%A1s-comunes-de-deserci%C3%B3n-escolar-universitaria.jpeg",
-    "link": "/quarto-LCPallares/projects/university-dropout.html"
+    "link": "/projects/university-dropout.html"
   },
   {
     "title": "Amazon Best Seller",
     "description": "Extracted data via web scraping, performed data cleaning, and created visualizations to reveal insights into Amazon’s top-selling books.",
     "image": "https://www.ecomengine.com/hubfs/images/featured/blog/amazon-best-seller.jpg",
-    "link": "/quarto-LCPallares/projects/amazon-best-seller.html"
+    "link": "/projects/amazon-best-seller.html"
   },
   {
     "title": "Análisis del Hipotiroidismo Congénito: Datos y Comunicación",
     "description": "Este proyecto analiza datos de hipotiroidismo congénito y aborda la falta de comunicación con los padres",
     "image": "https://i.imgur.com/UysVCy9.jpeg",
-    "link": "/quarto-LCPallares/projects/congenital-hypothyroidism.html"
+    "link": "/projects/congenital-hypothyroidism.html"
   }
 ]

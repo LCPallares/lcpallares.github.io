@@ -25,8 +25,8 @@
       "/projects/barrancabermeja-comunas-geojson.html",
       "/projects/rick-and-morty-app.html",
       "/projects/supermarket_sales_myanmar.html",
-      "/projects/congenital-hypothyroidism2.html",
       "/projects/congenital-hypothyroidism.html",
+      "/projects/congenital-hypothyroidism2.html",
       "/projects/university-dropout.html",
       "/projects/amazon-best-seller.html",
       "/projects/test_tema/test_tema.html",
@@ -37,8 +37,8 @@
     "listing": "/posts/index.html",
     "items": [
       "/posts/estadistica-descriptiva.html",
-      "/posts/estadistica-inferencial.html",
-      "/posts/eoq_inventario.html"
+      "/posts/eoq_inventario.html",
+      "/posts/estadistica-inferencial.html"
     ]
   }
 ]
